@@ -3,7 +3,7 @@ Este implementación del juego breakout fué programada por Leonardo López y Ju
 El manejador de excepciones fué hecho a partir de el del simulador SPIM.  
 Está pensada para correr en el simulador MARS utilizando el teclado y bitmap display.  
 
-#La configuración recomendada para el bitmap display es: 
+#La configuración recomendada para el bitmap display es:  
 Unit Width: 16  
 Unit Height: 16  
 Display Width: 512  
